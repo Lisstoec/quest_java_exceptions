@@ -1,0 +1,37 @@
+lib/junit-4.12.jar: line 1: $'PK\003\004': command not found
+lib/junit-4.12.jar: line 2: $'\025Z\204E': command not found
+lib/junit-4.12.jar: line 3: Z„EžjœþMETA-INF/MANIFEST.MFuŽ±‚0E÷: No such file or directory
+lib/junit-4.12.jar: command substitution: line 3: unexpected EOF while looking for matching `''
+lib/junit-4.12.jar: command substitution: line 4: syntax error: unexpected end of file
+lib/junit-4.12.jar: command substitution: line 3: syntax error near unexpected token `;'
+lib/junit-4.12.jar: command substitution: line 3: `;LE¬"Îò¶wÐ’¦	NMçSQœÐÒŸ=Zr°$¿»‰ŠWÃ27©¸s}7XGr÷˜'
+lib/junit-4.12.jar: line 3: $'\375\207\376@\EPtXÏ¹\367\346\226\032\355\025\002\3113\370c1\274\221\221\205i^\347\266*\272$\E\316\366\0364\201\231\223Y\257\253\032D\251G@\261V\221J8\313': command not found
+lib/junit-4.12.jar: line 3: $'U\333\021\374\357\300\301\301}\b\342#8\343\354': command not found
+lib/junit-4.12.jar: line 4: ØY„Eorg/PK: No such file or directory
+lib/junit-4.12.jar: line 5: $'\335Y\204E': command not found
+lib/junit-4.12.jar: line 6: org/junit/PK: No such file or directory
+lib/junit-4.12.jar: line 7: ÝY„Eorg/junit/rules/PK: No such file or directory
+lib/junit-4.12.jar: line 8: ÜY„Eorg/junit/runners/PK: No such file or directory
+lib/junit-4.12.jar: line 9: $'\334Y\204E': command not found
+lib/junit-4.12.jar: line 10: ÝY„Eorg/junit/runners/model/PK: No such file or directory
+lib/junit-4.12.jar: line 11: ÜY„Eorg/junit/matchers/PK: No such file or directory
+lib/junit-4.12.jar: line 12: ÜY„Eorg/junit/runner/PK: No such file or directory
+lib/junit-4.12.jar: line 13: ÙY„Eorg/junit/runner/manipulation/PK: No such file or directory
+lib/junit-4.12.jar: line 14: ÝY„Eorg/junit/runner/notification/PK: No such file or directory
+lib/junit-4.12.jar: line 15: ÜY„Eorg/junit/validator/PK: No such file or directory
+lib/junit-4.12.jar: line 16: ÝY„Eorg/junit/internal/PK: No such file or directory
+lib/junit-4.12.jar: line 17: ÝY„Eorg/junit/internal/matchers/PK: No such file or directory
+lib/junit-4.12.jar: line 18: ÜY„Eorg/junit/internal/runners/PK: No such file or directory
+lib/junit-4.12.jar: line 19: ÜY„E!org/junit/internal/runners/rules/PK: No such file or directory
+lib/junit-4.12.jar: line 20: org/junit/internal/runners/statements/PK: No such file or directory
+lib/junit-4.12.jar: line 21: ÜY„E!org/junit/internal/runners/model/PK: No such file or directory
+lib/junit-4.12.jar: line 22: ÜY„Eorg/junit/internal/requests/PK: No such file or directory
+lib/junit-4.12.jar: line 23: ÝY„Eorg/junit/internal/builders/PK: No such file or directory
+lib/junit-4.12.jar: line 24: ÜY„Eorg/junit/experimental/PK: No such file or directory
+lib/junit-4.12.jar: line 25: ÜY„Eorg/junit/experimental/results/PK: No such file or directory
+lib/junit-4.12.jar: line 26: ÜY„Eorg/junit/experimental/max/PK: No such file or directory
+lib/junit-4.12.jar: line 20: $'\334Y\204E': command not found
+lib/junit-4.12.jar: line 27: $'\334Y\204E': command not found
+lib/junit-4.12.jar: line 28: ÜY„E*org/junit/experimental/theories/suppliers/PK: No such file or directory
+lib/junit-4.12.jar: line 29: syntax error near unexpected token `)'
+lib/junit-4.12.jar: line 29: `ÜY„E)org/junit/experimental/theories/internal/PK'
